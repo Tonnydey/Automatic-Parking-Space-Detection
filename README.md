@@ -56,7 +56,8 @@ This project find outs the count of empty and occioped parking spaces in a car-p
 
 
 
-![example_result (1)](https://github.com/Tonnydey/Automatic-Parking-Space-Detection/assets/150002822/ccf85b92-d857-4d5d-aeef-0d8a5e1d1bb8)
+![Capture1](https://github.com/Tonnydey/Automatic-Parking-Space-Detection/assets/150002822/2145d168-105e-4dec-8865-48a48197f0a4)
+
 - Extracting the parking coordinates from Carparkinpos file. 
 Then use this coordinates to process every car parking space individualy.
 Implementing digital iamge processing techniques to find out the empty and occupied parking spaces.
